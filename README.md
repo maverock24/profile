@@ -7,11 +7,11 @@
 I'm a passionate Full Stack Developer with a love for creating dynamic and responsive web applications. With a strong foundation in both front-end and back-end technologies, I strive to build seamless and efficient solutions that provide great user experiences.
 
 - 🔭 I’m currently working on various web development projects.
-- 🌱 I’m currently learning advanced React and Node.js techniques.
+- 🌱 I’m currently learning advanced React and Node.js techniques plus preparing for AWS certification.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about web development, JavaScript, or anything tech-related.
 - 📫 How to reach me: [maverock24@example.com](mailto:maverock24@example.com)
-- ⚡ Fun fact: I love hiking and exploring new places.
+- ⚡ Fun fact: I love Yoga, electric Uni-cycling, carpentry (lamp-/ furniture design) and exploring new places.
 
 ## Skills
 
